@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Single Page</name>
+   <tag></tag>
+   <elementGuidId>ce39131b-ae98-4817-b828-29865ee26c57</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@class=&quot;mud-paper mud-elevation-1 flex-column tile-view&quot;])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c324e0e4-789f-43ca-b1a8-2520bc90bd2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Single Page
+                </value>
+      <webElementGuid>218b1150-4aed-4828-9dc9-60503e6f069b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wrapper&quot;)/div[@class=&quot;mud-layout mud-drawer-open-responsive-md-left mud-drawer-left-clipped-always&quot;]/div[@class=&quot;mud-main-content&quot;]/div[@class=&quot;mud-container mud-container-maxwidth-false mt-4 mb-16 px-8&quot;]/div[@class=&quot;mud-grid mud-grid-spacing-xs-2 mud-grid-justify-xs-center&quot;]/div[@class=&quot;mud-grid-item&quot;]/div[@class=&quot;mud-paper mud-elevation-1 flex-column tile-view&quot;]/div[@class=&quot;f-flex flex-column pa-4 parent-height&quot;]/div[1]</value>
+      <webElementGuid>eab47146-2388-4269-a80c-8d0bcb2200be</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wrapper']/div[3]/div/div[3]/div[2]/div[2]/div/div[2]/div</value>
+      <webElementGuid>9a81b6cf-a60b-45b7-8fe1-41940bf23ec8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wildcard:'])[1]/following::div[15]</value>
+      <webElementGuid>c12f1b37-1b7c-48f3-8aa9-e409ddc42ab5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Will return search result matching atleast one term from the query in any sequence'])[1]/following::div[15]</value>
+      <webElementGuid>64c26a5a-599f-4608-a480-b23387ca9fd4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notifications'])[2]/preceding::div[13]</value>
+      <webElementGuid>8b44c61c-65a6-4b8c-9bf5-63355aa3200c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div</value>
+      <webElementGuid>23c5d890-71c5-4f97-a3fb-de20468f849c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Single Page
+                ' or . = 'Single Page
+                ')]</value>
+      <webElementGuid>172c3497-c3cd-48e4-b95e-7d6fd4dc00c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wrapper']/div[3]/div/div[3]/div[2]/div[2]/div/div/div/div</value>
+      <webElementGuid>7f605236-c6f6-48d1-a9a7-07799f0d7c5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wildcard:'])[1]/following::div[17]</value>
+      <webElementGuid>599c52ca-c04f-490a-a0ea-e51eaeccc383</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Will return search result matching atleast one term from the query in any sequence'])[1]/following::div[17]</value>
+      <webElementGuid>db5e47f5-f2b8-4487-afdd-2789f7ac9d43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notifications'])[2]/preceding::div[24]</value>
+      <webElementGuid>d0a6b7bd-d648-466e-87a8-5583c743d4f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div/div</value>
+      <webElementGuid>5f583d7b-f037-4030-bd24-f05e6ba716ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wrapper']/div[3]/div/div[3]/div[2]/div[2]/div/div/div</value>
+      <webElementGuid>9b2e4855-684d-458e-88a9-d7f76c964d91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wildcard:'])[1]/following::div[14]</value>
+      <webElementGuid>36b4e62d-4eb5-4c97-bfe3-024a184b26d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Will return search result matching atleast one term from the query in any sequence'])[1]/following::div[14]</value>
+      <webElementGuid>7d71e7c6-21bf-42e0-93d6-979bcb814f26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div</value>
+      <webElementGuid>17506dd8-9617-47af-b2ed-e343dfe95998</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

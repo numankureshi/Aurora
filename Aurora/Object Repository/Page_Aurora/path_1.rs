@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path_1</name>
+   <tag></tag>
+   <elementGuidId>2d96fae0-da2f-490f-a6f4-0fb49547218b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>57d84085-98f9-4dd3-8799-3ba92f193927</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M4.25,5.61C6.27,8.2,10,13,10,13v6c0,0.55,0.45,1,1,1h2c0.55,0,1-0.45,1-1v-6c0,0,3.72-4.8,5.74-7.39 C20.25,4.95,19.78,4,18.95,4H5.04C4.21,4,3.74,4.95,4.25,5.61z</value>
+      <webElementGuid>a1e85a39-1517-4c5f-9442-6783ef6c3da0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wrapper&quot;)/div[@class=&quot;mud-layout mud-drawer-open-responsive-md-left mud-drawer-left-clipped-never&quot;]/div[@class=&quot;mud-main-content main-content-container&quot;]/div[@class=&quot;mud-container mud-container-maxwidth-false d-flex flex-column px-8&quot;]/div[1]/div[@class=&quot;mud-table mud-xs-table mud-table-dense mud-table-hover mud-elevation-1&quot;]/div[@class=&quot;mud-table-container&quot;]/table[@class=&quot;mud-table-root&quot;]/thead[@class=&quot;mud-table-head&quot;]/tr[@class=&quot;mud-table-row&quot;]/th[@class=&quot;mud-table-cell&quot;]/div[@class=&quot;filter-container d-flex flex-row align-center gap-1&quot;]/div[@class=&quot;mud-menu flex-grow-0&quot;]/div[@class=&quot;mud-menu-activator&quot;]/button[@class=&quot;mud-button-root mud-fab mud-fab-default mud-fab-size-small mud-ripple mud-fab-disable-elevation&quot;]/span[@class=&quot;mud-fab-label&quot;]/svg[@class=&quot;mud-icon-root mud-icon-default mud-svg-icon mud-icon-size-medium&quot;]/g[1]/path[2]</value>
+      <webElementGuid>73fbf91e-4aac-4a3d-a69a-a3661318f35f</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

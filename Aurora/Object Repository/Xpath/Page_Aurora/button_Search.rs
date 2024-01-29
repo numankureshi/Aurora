@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Search</name>
+   <tag></tag>
+   <elementGuidId>ecb2dc69-2ce7-4917-8c22-fb3cb50788fd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.d-none.d-md-flex.align-center > button.mud-button-root.mud-icon-button.mud-icon-button-color-inherit.mud-ripple.mud-ripple-icon</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c6e4c3a2-13bc-4091-829c-118969b057d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e81eb12e-aeae-4a65-9200-29389b701487</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mud-button-root mud-icon-button mud-icon-button-color-inherit mud-ripple mud-ripple-icon</value>
+      <webElementGuid>580050eb-3890-4b5a-a512-f433c615102b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Search</value>
+      <webElementGuid>7609002f-a187-4821-877b-d71b5e557248</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wrapper&quot;)/div[@class=&quot;mud-layout mud-drawer-open-responsive-md-left mud-drawer-left-clipped-always&quot;]/header[@class=&quot;mud-appbar mud-appbar-dense mud-appbar-fixed-top mud-elevation-1&quot;]/div[@class=&quot;mud-toolbar mud-toolbar-dense mud-toolbar-appbar&quot;]/div[@class=&quot;d-none d-md-flex align-center&quot;]/button[@class=&quot;mud-button-root mud-icon-button mud-icon-button-color-inherit mud-ripple mud-ripple-icon&quot;]</value>
+      <webElementGuid>067e8f4c-5f99-4c7b-8247-4c39e58c6f99</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[2]</value>
+      <webElementGuid>c53e822a-8a06-4764-9454-77892e966823</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wrapper']/div[3]/header/div/div[4]/button</value>
+      <webElementGuid>dafc2497-150c-434c-b29a-1e4089407bc4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AURORA'])[1]/following::button[1]</value>
+      <webElementGuid>fa16e003-b382-4377-8fa4-a69fd9efdee1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Numan'])[1]/preceding::button[4]</value>
+      <webElementGuid>723c61f5-302c-41c7-86da-1470b43d64dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HOME'])[1]/preceding::button[5]</value>
+      <webElementGuid>16ff868e-b661-4e41-874a-838e5a0f7fcc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/button</value>
+      <webElementGuid>c8af0b79-2ab7-4f19-822a-68656fdc0abb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Search' or . = 'Search')]</value>
+      <webElementGuid>ba21897f-3b78-45e0-9b8b-2aff1065cc6e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

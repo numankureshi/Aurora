@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_News4</name>
+   <tag></tag>
+   <elementGuidId>ff9b0e8f-34e3-4961-97b9-8bcaa772b8bd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='wrapper']/div[3]/aside[2]/div/div[3]/div/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>25e00941-62d8-4956-8b01-ba2f76b1ee92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mud-typography mud-typography-body1 mud-inherit-text</value>
+      <webElementGuid>756396fe-46d4-49d9-8c3a-3709af0193ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>News4</value>
+      <webElementGuid>111ccbce-0181-42f5-a8d2-414ceaa446c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wrapper&quot;)/div[@class=&quot;mud-layout mud-drawer-open-responsive-md-left mud-drawer-left-clipped-always&quot;]/aside[@class=&quot;mud-drawer mud-drawer-fixed mud-drawer-pos-right mud-drawer--open mud-drawer-md mud-drawer-clipped-never mud-elevation-1 mud-drawer-temporary&quot;]/div[@class=&quot;mud-drawer-content&quot;]/div[@class=&quot;mud-list mud-list-padding pa-2&quot;]/div[@class=&quot;mud-list-item mud-list-item-gutters mud-list-item-clickable mud-ripple&quot;]/div[@class=&quot;mud-list-item-text&quot;]/p[@class=&quot;mud-typography mud-typography-body1 mud-inherit-text&quot;]</value>
+      <webElementGuid>5ea6729f-8d79-4ffe-a8d0-ae4f80070e79</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wrapper']/div[3]/aside[2]/div/div[3]/div/div/p</value>
+      <webElementGuid>ee276ba8-33d3-47b9-92f1-02500b461f71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Test'])[2]/following::p[1]</value>
+      <webElementGuid>3f29f710-e5af-4b41-b8a0-31bb65d46009</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Highlight new content'])[1]/following::p[2]</value>
+      <webElementGuid>06b468cd-2f38-44f2-b99a-6e156b8b19ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Test'])[3]/preceding::p[2]</value>
+      <webElementGuid>0acdea3c-5f22-4a35-927c-6ef2c4585c24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/p</value>
+      <webElementGuid>c7bade5a-2341-4562-bf84-49bdf4eb9d07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'News4' or . = 'News4')]</value>
+      <webElementGuid>8614190e-9f47-4af9-8a07-f9961e3d48d3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

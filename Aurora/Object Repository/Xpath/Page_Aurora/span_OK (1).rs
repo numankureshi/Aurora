@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_OK (1)</name>
+   <tag></tag>
+   <elementGuidId>a0b08ac6-0485-475f-9f5e-c2d318a190b6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.mud-button-label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='_432dc4554f1243f3b5df4aad8515649d']/div[2]/div[5]/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4fc1185b-852d-4913-8b2a-61b3df9c7839</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mud-button-label</value>
+      <webElementGuid>8fe4c5e4-067e-4b0f-92b7-3bae4d13d910</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>OK</value>
+      <webElementGuid>abb85f5f-e1d6-4417-9c2d-7a512b3cf94a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;_432dc4554f1243f3b5df4aad8515649d&quot;)/div[2]/div[@class=&quot;mud-dialog-actions&quot;]/button[@class=&quot;mud-button-root mud-button mud-button-text mud-button-text-primary mud-button-text-size-medium mud-ripple&quot;]/span[@class=&quot;mud-button-label&quot;]</value>
+      <webElementGuid>26320a24-fa17-408b-8c53-df30a4fe0d24</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='_432dc4554f1243f3b5df4aad8515649d']/div[2]/div[5]/button/span</value>
+      <webElementGuid>9baee7ba-a45e-4dc5-ba92-080f4e015e6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Confirm Action'])[1]/following::span[2]</value>
+      <webElementGuid>cc741499-d87f-4edb-87f3-e2d5a131f314</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AURORA'])[1]/preceding::span[2]</value>
+      <webElementGuid>10e48348-1a91-4f86-adcd-1d5d2b5f6265</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sean Testing'])[1]/preceding::span[3]</value>
+      <webElementGuid>0396f259-d926-4595-9c7e-615d76f9724d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='OK']/parent::*</value>
+      <webElementGuid>80ae482b-62cd-4ab7-b36e-32fa1c93266b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/button/span</value>
+      <webElementGuid>f2d0e9e7-63d5-4f1f-946c-2dccbb25fee0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'OK' or . = 'OK')]</value>
+      <webElementGuid>b7306c1d-414e-4c46-81da-dfd0c420cb7f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

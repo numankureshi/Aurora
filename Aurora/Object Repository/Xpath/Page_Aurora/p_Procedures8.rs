@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Procedures8</name>
+   <tag></tag>
+   <elementGuidId>28899da8-2276-4479-8961-c8f74282e7dc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='wrapper']/div[3]/aside[2]/div/div[2]/div/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>7fb9ea79-9162-48eb-9fe1-2092a5275cd2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mud-typography mud-typography-body1 mud-inherit-text</value>
+      <webElementGuid>f1acd9a5-0cd2-4297-a6d7-77b50bc314cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Procedures8</value>
+      <webElementGuid>0ef5f0fd-e1a2-47da-a3ab-a2d3d7aecfed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wrapper&quot;)/div[@class=&quot;mud-layout mud-drawer-open-responsive-md-left mud-drawer-left-clipped-always&quot;]/aside[@class=&quot;mud-drawer mud-drawer-fixed mud-drawer-pos-right mud-drawer--open mud-drawer-md mud-drawer-clipped-never mud-elevation-1 mud-drawer-temporary&quot;]/div[@class=&quot;mud-drawer-content&quot;]/div[@class=&quot;mud-list mud-list-padding pa-2&quot;]/div[@class=&quot;mud-list-item mud-list-item-gutters mud-list-item-clickable mud-ripple&quot;]/div[@class=&quot;mud-list-item-text&quot;]/p[@class=&quot;mud-typography mud-typography-body1 mud-inherit-text&quot;]</value>
+      <webElementGuid>687dcc7b-1057-406d-bada-36b8864e35e0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wrapper']/div[3]/aside[2]/div/div[2]/div/div/p</value>
+      <webElementGuid>09516832-ada5-40d9-a9aa-4b58823b9332</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notifications'])[2]/following::p[1]</value>
+      <webElementGuid>1d9bad13-5ec0-43a3-b6de-ee0297d8193a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wildcard:'])[1]/following::p[21]</value>
+      <webElementGuid>a2e1b3ca-d48c-43ea-b25e-7e4537bacfb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SVG out of Margin'])[1]/preceding::p[2]</value>
+      <webElementGuid>4525313d-4a7a-4de6-b978-19058b5cc02e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/p</value>
+      <webElementGuid>0edfbe8e-f069-4430-8722-6f988d7f5c31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Procedures8' or . = 'Procedures8')]</value>
+      <webElementGuid>8bcf81e8-cc61-43c8-a25f-43df21f730e4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

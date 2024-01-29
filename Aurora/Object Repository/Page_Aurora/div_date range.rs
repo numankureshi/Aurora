@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_date range</name>
+   <tag></tag>
+   <elementGuidId>cb828a0a-d438-48e1-bbae-612374047a76</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='popovercontent-f208a1d9-2481-44b3-9f0f-0e9111f35cf9']/div/div[2]/div/p/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>656b625f-f222-4cea-897c-cd70563236fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>d-flex flex-row justify-space-between align-center</value>
+      <webElementGuid>91b06e1b-b310-412d-a1cd-b49ce37f9eb9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>date range</value>
+      <webElementGuid>943057e8-6e3a-416e-8555-ea8fe218de1e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;popovercontent-f208a1d9-2481-44b3-9f0f-0e9111f35cf9&quot;)/div[@class=&quot;mud-list mud-list-padding&quot;]/div[@class=&quot;mud-list-item mud-list-item-dense mud-list-item-gutters mud-list-item-clickable mud-ripple&quot;]/div[@class=&quot;mud-list-item-text&quot;]/p[@class=&quot;mud-typography mud-typography-body2 mud-inherit-text&quot;]/div[@class=&quot;d-flex flex-row justify-space-between align-center&quot;]</value>
+      <webElementGuid>343225f0-9b42-4a96-8402-f65607d329c7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='popovercontent-f208a1d9-2481-44b3-9f0f-0e9111f35cf9']/div/div[2]/div/p/div</value>
+      <webElementGuid>e3999369-6edf-42a5-a51d-2a49fa0f87b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='on date'])[1]/following::div[3]</value>
+      <webElementGuid>b2a8155a-e9e2-4d40-b2f9-688b870fa63a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='next n days'])[1]/preceding::div[1]</value>
+      <webElementGuid>a17d9bd8-fabd-45b0-8a97-e2116f07f68e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/p/div</value>
+      <webElementGuid>7222aded-61aa-4f55-bcb2-52bbb5b92217</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'date range' or . = 'date range')]</value>
+      <webElementGuid>295becd7-7f12-4fb8-a268-2ac253de8de7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

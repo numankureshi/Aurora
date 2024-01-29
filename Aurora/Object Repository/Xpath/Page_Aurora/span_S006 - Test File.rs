@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_S006 - Test File</name>
+   <tag></tag>
+   <elementGuidId>16fd9c1c-6956-4b90-8ba5-ef6f0b7f488c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='article-sidebar']/div/aside/div/div[2]/div/div/ul/li[7]/div/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9493fb2e-63ae-4cc4-89ce-535fe341fd6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>S006 - Test File</value>
+      <webElementGuid>2d09ec59-feca-4ddc-8893-00d67a75d254</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;article-sidebar&quot;)/div[@class=&quot;mud-height-full&quot;]/aside[@class=&quot;mud-drawer mud-drawer-pos-left mud-drawer--open mud-drawer--initial mud-drawer-lg mud-drawer-clipped-never mud-elevation-1 mud-drawer-persistent theme-background&quot;]/div[@class=&quot;mud-drawer-content&quot;]/div[@class=&quot;d-none d-xl-flex d-xxl-none&quot;]/div[@class=&quot;flex-grow-1&quot;]/div[@class=&quot;ml-2&quot;]/ul[@class=&quot;mud-treeview mud-treeview-dense mud-treeview-hover mud-treeview-selected-primary mud-treeview-checked-default mt-4&quot;]/li[@class=&quot;mud-treeview-item&quot;]/div[@class=&quot;mud-treeview-item-content&quot;]/div[@class=&quot;d-flex align-center f-width tree-node c-pointer&quot;]/span[1]</value>
+      <webElementGuid>93d700df-9014-426b-83d6-3a0c0d94ebe2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='article-sidebar']/div/aside/div/div[2]/div/div/ul/li[7]/div/div/span</value>
+      <webElementGuid>0a546307-0c63-474b-970e-fbae3d0177c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[7]/div/div/span</value>
+      <webElementGuid>28860523-78b3-4203-a70f-2b072fdd312a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'S006 - Test File' or . = 'S006 - Test File')]</value>
+      <webElementGuid>1682b272-0d13-4e91-9947-41a507e96d54</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

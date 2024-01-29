@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Procedures1</name>
+   <tag></tag>
+   <elementGuidId>06079c05-c993-4219-b375-f9f7c5e2f8ad</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='wrapper']/div[3]/div/div[2]/div/div/div/div/div/div/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>94a03574-5214-46c9-bd44-f3704e9ae431</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mud-tab mud-ripple</value>
+      <webElementGuid>e6104e32-7123-4b78-a950-e5318b51e436</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Procedures1</value>
+      <webElementGuid>c3e5ee08-2a1a-4f2a-bed8-a563aa6d1be7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wrapper&quot;)/div[@class=&quot;mud-layout mud-drawer-open-responsive-md-left mud-drawer-left-clipped-always&quot;]/div[@class=&quot;mud-main-content&quot;]/div[@class=&quot;d-flex flex-column&quot;]/div[1]/div[@class=&quot;mud-tabs&quot;]/div[@class=&quot;mud-tabs-toolbar&quot;]/div[@class=&quot;mud-tabs-toolbar-inner&quot;]/div[@class=&quot;mud-tabs-toolbar-content&quot;]/div[@class=&quot;mud-tabs-toolbar-wrapper mud-tabs-centered&quot;]/div[@class=&quot;mud-tooltip-root mud-tooltip-inline&quot;]/div[@class=&quot;mud-tab mud-ripple&quot;]</value>
+      <webElementGuid>7bb03fcf-003d-4d18-8216-d989302661ce</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wrapper']/div[3]/div/div[2]/div/div/div/div/div/div/div[2]/div</value>
+      <webElementGuid>e80c7109-d0c7-4930-be4f-6b5358828cc8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wildcard:'])[1]/following::div[11]</value>
+      <webElementGuid>0eda8199-edbc-4533-af75-a4b102beee19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No Document Found'])[1]/preceding::div[3]</value>
+      <webElementGuid>244d5b20-e7fa-41b3-b197-b5ee2eb26a9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notifications'])[2]/preceding::div[7]</value>
+      <webElementGuid>83216ac5-b2e9-4a6c-a3f9-42da498a6a81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/div/div[2]/div</value>
+      <webElementGuid>19ba8909-f177-443d-8f1a-95d1eaa1a97d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Procedures1' or . = 'Procedures1')]</value>
+      <webElementGuid>45512802-7a5a-4914-a88a-7c946c24f172</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

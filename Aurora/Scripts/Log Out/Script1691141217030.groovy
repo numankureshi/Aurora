@@ -17,17 +17,24 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+'Click on Account Settings Dropdown\r\n'
 WebUI.click(findTestObject('HomePage/Acc Settings Dropdown'))
 
+'Validate the Expanding of Account Settings Dropdown'
 if (WebUI.verifyElementPresent(findTestObject('HomePage/Account Settings Dropdown/Sign Out'), 30)) {
+    'Click on Sign Out'
     WebUI.click(findTestObject('HomePage/Account Settings Dropdown/Sign Out'))
 } else {
+    'Check if Acccount Settings Dropdown has expanded'
     WebUI.verifyElementNotVisible(findTestObject('HomePage/Acc Settings Dropdown'))
 
+    'Click to expand the account settings dropdown'
     WebUI.click(findTestObject('HomePage/Acc Settings Dropdown'))
 
+    'Click to logout of the platform'
     WebUI.click(findTestObject('HomePage/Account Settings Dropdown/Sign Out'))
 }
 
+'Close the browser'
 WebUI.closeBrowser()
 

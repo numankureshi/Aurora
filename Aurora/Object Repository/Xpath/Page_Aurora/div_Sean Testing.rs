@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Sean Testing</name>
+   <tag></tag>
+   <elementGuidId>510346e3-6d70-486f-9dc5-c2c068a35a38</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='wrapper']/div[3]/div/div[3]/div[2]/div[5]/div/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>cd051d6c-51e1-44ca-8246-94aaf9ba35c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sean Testing
+                </value>
+      <webElementGuid>e5059a9f-6667-44e8-8e97-d1f42273a706</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wrapper&quot;)/div[@class=&quot;mud-layout mud-drawer-open-responsive-md-left mud-drawer-left-clipped-always&quot;]/div[@class=&quot;mud-main-content&quot;]/div[@class=&quot;mud-container mud-container-maxwidth-false mt-4 mb-16 px-8&quot;]/div[@class=&quot;mud-grid mud-grid-spacing-xs-2 mud-grid-justify-xs-center&quot;]/div[@class=&quot;mud-grid-item&quot;]/div[@class=&quot;mud-paper mud-elevation-1 flex-column tile-view&quot;]/div[@class=&quot;f-flex flex-column pa-4 parent-height&quot;]/div[1]</value>
+      <webElementGuid>a380fd13-e67f-4a79-8892-db29ce75d11b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wrapper']/div[3]/div/div[3]/div[2]/div[5]/div/div[2]/div</value>
+      <webElementGuid>f8301c6a-ffdc-4ce1-8848-24670ce66839</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wildcard:'])[1]/following::div[31]</value>
+      <webElementGuid>3c74994e-dcd3-41b8-966d-3d4a6c92c9b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Will return search result matching atleast one term from the query in any sequence'])[1]/following::div[31]</value>
+      <webElementGuid>2fb7f9bb-4791-4742-956c-7b72e422d1e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notifications'])[2]/preceding::div[24]</value>
+      <webElementGuid>1ef681bf-405e-4dc2-be62-11e0389351ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div[2]/div</value>
+      <webElementGuid>aaa4d4c4-e15d-4c01-b68e-48feb113f17e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Sean Testing
+                ' or . = 'Sean Testing
+                ')]</value>
+      <webElementGuid>c257c353-a2fd-4c23-b536-6218e2a2e6c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wrapper']/div[3]/div/div[3]/div[2]/div[6]/div/div/div/div</value>
+      <webElementGuid>cc4ffae2-fb7b-4116-ae41-11ce058a5069</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wildcard:'])[1]/following::div[49]</value>
+      <webElementGuid>028c490c-48ec-4f82-aa16-bbb961fb7f5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Will return search result matching atleast one term from the query in any sequence'])[1]/following::div[49]</value>
+      <webElementGuid>eb2af833-32b0-4484-bfe0-ee8809a7420d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notifications'])[2]/preceding::div[40]</value>
+      <webElementGuid>fc8ac726-1519-45ea-a1ba-5cb705579d72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[6]/div/div/div/div</value>
+      <webElementGuid>5bc870dd-643d-457c-8eea-86baae313712</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

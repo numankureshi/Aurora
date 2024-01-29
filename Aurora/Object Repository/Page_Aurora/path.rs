@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path</name>
+   <tag></tag>
+   <elementGuidId>364e6180-0cd1-4e6f-aecf-c28f4e2e8d91</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>d823ccb6-8e1f-4fe0-9cb8-4bef016203c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M4.25,5.61C6.27,8.2,10,13,10,13v6c0,0.55,0.45,1,1,1h2c0.55,0,1-0.45,1-1v-6c0,0,3.72-4.8,5.74-7.39 C20.25,4.95,19.78,4,18.95,4H5.04C4.21,4,3.74,4.95,4.25,5.61z</value>
+      <webElementGuid>a907fb4f-f757-461c-b8f9-0a7e45392632</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wrapper&quot;)/div[@class=&quot;mud-layout mud-drawer-open-responsive-md-left mud-drawer-left-clipped-never&quot;]/div[@class=&quot;mud-main-content main-content-container&quot;]/div[@class=&quot;mud-container mud-container-maxwidth-false d-flex flex-column px-8&quot;]/div[1]/div[@class=&quot;d-flex flex-row align-center gap-2 pa-0&quot;]/div[@class=&quot;d-flex flex-row align-center gap-1 pa-0&quot;]/button[@class=&quot;mud-button-root mud-icon-button mud-ripple mud-ripple-icon&quot;]/span[@class=&quot;mud-icon-button-label&quot;]/svg[@class=&quot;mud-icon-root mud-svg-icon mud-inherit-text mud-icon-size-medium&quot;]/g[1]/path[2]</value>
+      <webElementGuid>8ac63525-589c-4d0d-aa0b-63782ae77141</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

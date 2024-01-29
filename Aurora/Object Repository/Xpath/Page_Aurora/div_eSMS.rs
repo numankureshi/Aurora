@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_eSMS</name>
+   <tag></tag>
+   <elementGuidId>8674008d-18ca-46ca-8a02-c9e444c2c17b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='wrapper']/div[3]/div/div[3]/div[2]/div[2]/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7700df3d-7233-44fe-b465-29210adaca2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>eSMS
+                </value>
+      <webElementGuid>f977ca72-2cbc-4961-bc55-41bf6ea9a80e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wrapper&quot;)/div[@class=&quot;mud-layout mud-drawer-open-responsive-md-left mud-drawer-left-clipped-always&quot;]/div[@class=&quot;mud-main-content&quot;]/div[@class=&quot;mud-container mud-container-maxwidth-false mt-4 mb-16 px-8&quot;]/div[@class=&quot;mud-grid mud-grid-spacing-xs-2 mud-grid-justify-xs-center&quot;]/div[@class=&quot;mud-grid-item dropzone&quot;]/div[1]/div[@class=&quot;mud-paper mud-elevation-1 flex-column tile-view&quot;]/div[@class=&quot;f-flex flex-column pa-4 parent-height&quot;]/div[1]</value>
+      <webElementGuid>f0b2739f-02fe-4a9a-8ee7-cc0c109e569b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wrapper']/div[3]/div/div[3]/div[2]/div[2]/div/div/div/div</value>
+      <webElementGuid>8aad0388-f58e-4e2e-9aad-9e33f89fc30a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wildcard:'])[1]/following::div[17]</value>
+      <webElementGuid>82c68de9-6537-421b-b560-c8109146d721</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Will return search result matching atleast one term from the query in any sequence'])[1]/following::div[17]</value>
+      <webElementGuid>e0c074f9-989f-4781-93d9-8e9e602a5d3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notifications'])[2]/preceding::div[72]</value>
+      <webElementGuid>614d2785-302c-4578-bd1f-df64eec52468</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div/div</value>
+      <webElementGuid>e865e14a-3626-45c7-bf64-852da5ed9f9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'eSMS
+                ' or . = 'eSMS
+                ')]</value>
+      <webElementGuid>bca4a432-7d55-4a47-9a9a-91edc9c7f773</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

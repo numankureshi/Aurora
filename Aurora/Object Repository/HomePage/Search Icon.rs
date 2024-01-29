@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//hr[@class='mud-divider mud-divider-flexitem mud-divider-vertical']//ancestor::div[@class='d-none d-md-flex align-center']</value>
+         <value>(//button[@class='mud-button-root mud-icon-button mud-icon-button-color-inherit mud-ripple mud-ripple-icon'])[1]</value>
       </entry>
       <entry>
          <key>BASIC</key>

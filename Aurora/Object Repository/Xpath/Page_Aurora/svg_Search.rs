@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_Search</name>
+   <tag></tag>
+   <elementGuidId>f4e02700-b35a-4c60-83e0-3417750a270f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//svg[(text() = 'Search' or . = 'Search')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.d-none.d-md-flex.align-center > button.mud-button-root.mud-icon-button.mud-icon-button-color-inherit.mud-ripple.mud-ripple-icon > span.mud-icon-button-label > svg.mud-icon-root.mud-svg-icon.mud-inherit-text.mud-icon-size-medium</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>ab79d378-d09c-4dfc-bb1e-96e67ddf1a15</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mud-icon-root mud-svg-icon mud-inherit-text mud-icon-size-medium</value>
+      <webElementGuid>6f2d2d0a-4c4a-40ac-961e-45d34484ef3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>focusable</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>689d3d3a-a9a9-482e-8a0b-b1d6e018ba83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 24 24</value>
+      <webElementGuid>7a830328-9ca0-4a04-a3c7-4a9703c0dd92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>20f76714-47dc-4c0f-84d4-f7e9e96c94ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Search</value>
+      <webElementGuid>4894b4a2-2f0e-4541-bcaf-fd6aa8d4d8c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wrapper&quot;)/div[@class=&quot;mud-layout mud-drawer-open-responsive-md-left mud-drawer-left-clipped-always&quot;]/header[@class=&quot;mud-appbar mud-appbar-dense mud-appbar-fixed-top mud-elevation-1&quot;]/div[@class=&quot;mud-toolbar mud-toolbar-dense mud-toolbar-appbar&quot;]/div[@class=&quot;d-none d-md-flex align-center&quot;]/button[@class=&quot;mud-button-root mud-icon-button mud-icon-button-color-inherit mud-ripple mud-ripple-icon&quot;]/span[@class=&quot;mud-icon-button-label&quot;]/svg[@class=&quot;mud-icon-root mud-svg-icon mud-inherit-text mud-icon-size-medium&quot;]</value>
+      <webElementGuid>34bd94e6-d266-464e-bd9d-e92a7ae3c34c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//svg[(text() = 'Search' or . = 'Search')]</value>
+      <webElementGuid>b63a7bc3-d2c4-43b2-aabe-999a7b898deb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

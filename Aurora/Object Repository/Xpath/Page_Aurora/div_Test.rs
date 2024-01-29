@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Test</name>
+   <tag></tag>
+   <elementGuidId>56ff0a44-6a43-4ba3-aaef-331f4d7b87ba</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='wrapper']/div[3]/div/div[3]/div[2]/div[7]/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a9a76b0a-eefb-4bf4-a33f-13135b5b9c2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Test
+                </value>
+      <webElementGuid>58162671-7e61-43a9-81a1-476dae717e2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wrapper&quot;)/div[@class=&quot;mud-layout mud-drawer-open-responsive-md-left mud-drawer-left-clipped-always&quot;]/div[@class=&quot;mud-main-content&quot;]/div[@class=&quot;mud-container mud-container-maxwidth-false mt-4 mb-16 px-8&quot;]/div[@class=&quot;mud-grid mud-grid-spacing-xs-2 mud-grid-justify-xs-center&quot;]/div[@class=&quot;mud-grid-item dropzone&quot;]/div[1]/div[@class=&quot;mud-paper mud-elevation-1 flex-column tile-view&quot;]/div[@class=&quot;f-flex flex-column pa-4 parent-height&quot;]/div[1]</value>
+      <webElementGuid>2f17e50b-f740-4c68-a1cd-5c2e355a2f1b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wrapper']/div[3]/div/div[3]/div[2]/div[7]/div/div/div/div</value>
+      <webElementGuid>27086007-1f25-4267-b7dc-c6166e8996e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wildcard:'])[1]/following::div[57]</value>
+      <webElementGuid>90b9e789-4a94-4a47-a635-d74029538ace</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Will return search result matching atleast one term from the query in any sequence'])[1]/following::div[57]</value>
+      <webElementGuid>8cd4213f-f777-4864-b338-40c944c411f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notifications'])[2]/preceding::div[32]</value>
+      <webElementGuid>e3a3baf6-892f-4e61-92a9-288329c69787</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[7]/div/div/div/div</value>
+      <webElementGuid>3286f571-b2aa-46aa-9cca-641b8ab2354b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Test
+                ' or . = 'Test
+                ')]</value>
+      <webElementGuid>a3a2a4d8-1a31-48f2-b0c3-86bab3568840</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

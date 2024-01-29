@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_Close</name>
+   <tag></tag>
+   <elementGuidId>e168aaf2-598e-49bd-952f-e1f256d06469</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//svg[(text() = 'Close' or . = 'Close')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>5439e8a7-63df-4817-9705-f3778786a015</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mud-icon-root mud-svg-icon mud-inherit-text mud-icon-size-small</value>
+      <webElementGuid>b7e30e27-d88c-42a1-9b97-b46b3821416f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>focusable</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>e8057cb3-b6ec-4e32-a90d-169fe3756155</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 24 24</value>
+      <webElementGuid>50d283ea-aa79-4af5-b810-bd38be2f8fc9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>9090cb46-7750-4760-a66f-7c3275ff11f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Close</value>
+      <webElementGuid>7eaed6ef-5439-46d7-af8f-5d2790b0911b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wrapper&quot;)/div[@class=&quot;mud-layout mud-drawer-open-responsive-md-left mud-drawer-left-clipped-always&quot;]/aside[@class=&quot;mud-drawer mud-drawer-fixed mud-drawer-pos-right mud-drawer--open mud-drawer-md mud-drawer-clipped-never mud-elevation-1 mud-drawer-temporary&quot;]/div[@class=&quot;mud-drawer-content&quot;]/div[@class=&quot;mud-toolbar mud-toolbar-dense py-2 px-3&quot;]/button[@class=&quot;mud-button-root mud-icon-button mud-icon-button-color-inherit mud-ripple mud-ripple-icon mud-icon-button-size-small&quot;]/span[@class=&quot;mud-icon-button-label&quot;]/svg[@class=&quot;mud-icon-root mud-svg-icon mud-inherit-text mud-icon-size-small&quot;]</value>
+      <webElementGuid>c042dbf6-78b5-4b01-9cb8-a95fe29c10e5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//svg[(text() = 'Close' or . = 'Close')]</value>
+      <webElementGuid>2a19238e-b581-4bad-9903-3b9cfe2250f5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_unpublished test</name>
+   <tag></tag>
+   <elementGuidId>7f8deeba-3783-4a43-abf9-57289a246ec6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='wrapper']/div[3]/div/div[2]/div[3]/div/div/table/tbody/tr[3]/td[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>953a9aa7-6887-4438-b6a4-6fca25da38b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>unpublished test</value>
+      <webElementGuid>f324da70-5449-422f-ae66-3578ffea14f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wrapper&quot;)/div[@class=&quot;mud-layout mud-drawer-open-responsive-md-left mud-drawer-left-clipped-always&quot;]/div[@class=&quot;mud-main-content&quot;]/div[@class=&quot;mud-container mud-container-maxwidth-false d-flex flex-column px-8&quot;]/div[@class=&quot;flex-grow-1&quot;]/div[@class=&quot;mud-table mud-simple-table mud-table-dense mud-table-hover mud-table-bordered mud-table-sticky-header mud-elevation-1 aurora-table&quot;]/div[@class=&quot;mud-table-container&quot;]/table[1]/tbody[1]/tr[3]/td[2]</value>
+      <webElementGuid>43a0dd49-6709-4a3b-b30c-100ded78f15e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wrapper']/div[3]/div/div[2]/div[3]/div/div/table/tbody/tr[3]/td[2]</value>
+      <webElementGuid>c5ee6588-af4f-4186-b711-0a8782c76c19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='S003'])[1]/following::td[1]</value>
+      <webElementGuid>f4adb42c-9cbd-4016-a4fb-8c7ba0f5793d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email Rules'])[1]/following::td[4]</value>
+      <webElementGuid>9107e5f9-c675-4c04-a5d8-64d8d677adb6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='test doc'])[1]/preceding::td[3]</value>
+      <webElementGuid>795978bf-1ccc-42b7-85e9-0cfa9b687a88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='test doc'])[2]/preceding::td[4]</value>
+      <webElementGuid>f79487bc-be48-4ed5-a492-0a1bdf21f004</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td[2]</value>
+      <webElementGuid>cd197eeb-21bf-419a-a8a5-dc7d16065802</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'unpublished test' or . = 'unpublished test')]</value>
+      <webElementGuid>f77f6ba2-764e-4854-b784-225925574d77</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

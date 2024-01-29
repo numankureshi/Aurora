@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path_1</name>
+   <tag></tag>
+   <elementGuidId>278fd282-c647-4366-af86-f9d9a33f6114</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>b347e33b-6555-4c1e-9259-c5e184a1b067</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M22 11V3h-7v3H9V3H2v8h7V8h2v10h4v3h7v-8h-7v3h-2V8h2v3z</value>
+      <webElementGuid>0b3168ae-e9df-4e8e-8030-d02eaa68b1c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;article-sidebar&quot;)/div[@class=&quot;mud-height-full&quot;]/aside[@class=&quot;mud-drawer mud-drawer-pos-left mud-drawer--open mud-drawer--initial mud-drawer-lg mud-drawer-clipped-never mud-elevation-1 mud-drawer-persistent theme-background&quot;]/div[@class=&quot;mud-drawer-content&quot;]/div[@class=&quot;mud-drawer-header pa-0&quot;]/div[@class=&quot;mud-paper mud-paper-square mud-elevation-1 d-flex&quot;]/div[@class=&quot;flex-grow-1 d-flex justify-center align-center&quot;]/div[@class=&quot;mud-tooltip-root mud-tooltip-inline&quot;]/button[@class=&quot;mud-button-root mud-icon-button mud-icon-button-color-primary mud-ripple mud-ripple-icon&quot;]/span[@class=&quot;mud-icon-button-label&quot;]/svg[@class=&quot;mud-icon-root mud-svg-icon mud-inherit-text mud-icon-size-medium&quot;]/path[2]</value>
+      <webElementGuid>4eecc688-492b-4a01-a8e9-cef287a834e5</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Submit</name>
+   <tag></tag>
+   <elementGuidId>cb004334-96a5-4c35-9c3b-f21169de1604</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.mud-button-root.mud-button.mud-button-filled.mud-button-filled-default.mud-button-filled-size-medium.mud-ripple.mr-4 > span.mud-button-label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='wrapper']/div[3]/div/div[2]/div[2]/div/div/div[4]/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8ab66bc6-4415-4d6b-920c-f909d98f55e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mud-button-label</value>
+      <webElementGuid>e9f6e5d7-4f14-42a0-abda-b0fe5e362891</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Submit</value>
+      <webElementGuid>22d9ef26-cce2-4066-aff0-bd4db567bc46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wrapper&quot;)/div[@class=&quot;mud-layout mud-drawer-open-responsive-md-left mud-drawer-left-clipped-always&quot;]/div[@class=&quot;mud-main-content&quot;]/div[@class=&quot;d-flex flex-column mud-container-custom&quot;]/div[@class=&quot;flex-grow-1 d-flex&quot;]/div[@class=&quot;flex-grow-1&quot;]/div[@class=&quot;py-6 mx-auto&quot;]/div[@class=&quot;mud-paper mud-elevation-1 pa-6 mb-4 d-flex justify-center&quot;]/button[@class=&quot;mud-button-root mud-button mud-button-filled mud-button-filled-default mud-button-filled-size-medium mud-ripple mr-4&quot;]/span[@class=&quot;mud-button-label&quot;]</value>
+      <webElementGuid>7564d990-5a90-44de-9ba2-e752048e6240</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wrapper']/div[3]/div/div[2]/div[2]/div/div/div[4]/button/span</value>
+      <webElementGuid>8fe73eb5-eec9-4cd1-bc62-362558312e91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select File'])[1]/following::span[2]</value>
+      <webElementGuid>dc43e29b-6206-41d5-8715-09bf69f7e815</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Document Approval History'])[1]/preceding::span[1]</value>
+      <webElementGuid>1c97dcbd-51bb-4af4-b6e5-21ddfd323f52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Document Version History'])[1]/preceding::span[3]</value>
+      <webElementGuid>68ef32e6-dd1e-4ec8-8a03-e96a27856855</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Submit']/parent::*</value>
+      <webElementGuid>dab289ab-c0cb-458e-bfa1-713fdac5373c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[4]/button/span</value>
+      <webElementGuid>47e20bcc-5b17-4e99-b340-0f934aff38aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Submit' or . = 'Submit')]</value>
+      <webElementGuid>b0946f8c-7faf-45ef-8feb-fbd4026a53a7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

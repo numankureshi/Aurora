@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Numan</name>
+   <tag></tag>
+   <elementGuidId>72175ef9-7545-48f8-bf33-58863d2ce546</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='wrapper']/div[3]/header/div/div[4]/div/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.mud-button-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e60ff1da-0129-463f-bfe4-206489a92ecb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mud-button-label</value>
+      <webElementGuid>c84066af-498d-4f0c-84a3-edd44af950e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Numan</value>
+      <webElementGuid>252f62e3-de2d-46f5-b62c-99d05204f049</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wrapper&quot;)/div[@class=&quot;mud-layout mud-drawer-open-responsive-md-left mud-drawer-left-clipped-always&quot;]/header[@class=&quot;mud-appbar mud-appbar-dense mud-appbar-fixed-top mud-elevation-1 app-bar-in-admin-mode&quot;]/div[@class=&quot;mud-toolbar mud-toolbar-dense mud-toolbar-appbar&quot;]/div[@class=&quot;d-none d-md-flex align-center&quot;]/div[@class=&quot;mud-menu&quot;]/button[@class=&quot;mud-button-root mud-button mud-button-text mud-button-text-default mud-button-text-size-medium mud-ripple&quot;]/span[@class=&quot;mud-button-label&quot;]</value>
+      <webElementGuid>3f3adaa4-dc78-41c8-9216-26c4c0c59582</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wrapper']/div[3]/header/div/div[4]/div/button/span</value>
+      <webElementGuid>7f48f755-af16-4f31-96dd-9395e5740011</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sean Testing'])[1]/following::span[14]</value>
+      <webElementGuid>e9d43af0-9665-4e01-b6f0-c89643d68674</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AURORA'])[1]/following::span[15]</value>
+      <webElementGuid>e511ce2c-6649-4a4e-8bf6-acd86f9be91d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HOME'])[1]/preceding::span[2]</value>
+      <webElementGuid>5f8bf681-0b3a-4af9-8950-9bc6739380d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AURORA'])[2]/preceding::span[2]</value>
+      <webElementGuid>8db7aa3c-cc8e-48e1-a28e-3b9c2ebff9d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/button/span</value>
+      <webElementGuid>83b44640-1541-4935-8e8d-ea17135e4d8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Numan' or . = 'Numan')]</value>
+      <webElementGuid>41358338-4cd2-4475-b5d9-308c6f39a7a8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -6,11 +6,11 @@
    <elementGuidId>db4cd8c2-eab3-4e93-97b7-d38b2b1e8cdf</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(//div[@class=&quot;mud-paper mud-elevation-1 flex-column tile-view&quot;])[2]</value>
+         <key>BASIC</key>
       </entry>
       <entry>
-         <key>BASIC</key>
+         <key>XPATH</key>
+         <value>//p[contains(text(),'Multiple Page Manual')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

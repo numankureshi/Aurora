@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Save Draft</name>
+   <tag></tag>
+   <elementGuidId>9b4c03be-dd0a-411e-8ce0-c6ecee5033fd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='article-content']/div/div/div/div/div/div[2]/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.mud-button-root.mud-button.mud-button-filled.mud-button-filled-primary.mud-button-filled-size-medium.mud-ripple > span.mud-button-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>fa70bf90-863c-404a-bada-3050e1a93882</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mud-button-label</value>
+      <webElementGuid>167fa705-55e2-41b6-a1d2-1519eba5ac7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Save Draft</value>
+      <webElementGuid>4f15fb99-3ca2-4162-98d7-a58b6ab43356</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;article-content&quot;)/div[@class=&quot;d-flex flex-column&quot;]/div[@class=&quot;flex-grow-1&quot;]/div[@class=&quot;d-flex&quot;]/div[@class=&quot;mx-auto&quot;]/div[@class=&quot;mud-paper mud-elevation-2 my-4 pa-4&quot;]/div[@class=&quot;text-right pt-2&quot;]/button[@class=&quot;mud-button-root mud-button mud-button-filled mud-button-filled-primary mud-button-filled-size-medium mud-ripple&quot;]/span[@class=&quot;mud-button-label&quot;]</value>
+      <webElementGuid>6443d252-aead-4548-b914-ec6e5549e8be</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='article-content']/div/div/div/div/div/div[2]/button/span</value>
+      <webElementGuid>7dbd6da0-48b4-47a4-ae07-9b25803afe1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LINK_TO_CHANGE'])[1]/following::span[1]</value>
+      <webElementGuid>b4d96c4f-d1d8-4c3d-881b-e2ac565f908f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='link_off'])[1]/following::span[1]</value>
+      <webElementGuid>65684b46-c5bc-4b6f-9c15-f75c5d8fbade</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Version History'])[1]/preceding::span[3]</value>
+      <webElementGuid>839a3ee9-e7f9-4616-a09e-609b2f152c63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Assigned Positions'])[1]/preceding::span[5]</value>
+      <webElementGuid>efd645ca-c39d-436c-a168-51ec023447b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/div/div/div[2]/button/span</value>
+      <webElementGuid>931e1da7-e269-4c94-a28b-1d4171313dc1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Save Draft' or . = 'Save Draft')]</value>
+      <webElementGuid>50d131fa-cf64-496f-9e97-fdf8e6fb9302</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='article-content']/div/div[2]/div/div/div/div[2]/button/span</value>
+      <webElementGuid>435b2b16-5ebe-4c10-a902-b5f7afea416d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Section Heading'])[1]/following::span[1]</value>
+      <webElementGuid>6a107d98-2df0-4854-a434-5aafe4fa26e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sort Order'])[1]/following::span[1]</value>
+      <webElementGuid>59ce90ce-7907-4214-a939-bffe11a77e4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Insert Block'])[1]/preceding::span[1]</value>
+      <webElementGuid>4ab429ed-f8ba-4f43-a590-02e7ff7d80f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Title'])[1]/preceding::span[1]</value>
+      <webElementGuid>9c46bd1e-a01e-40d0-9896-0385bba00651</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[3]/div/div[2]/div/div/div/div[2]/button/span</value>
+      <webElementGuid>30deefdd-279c-47b1-b1ff-c55380d7f46f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='article-content']/div/div[2]/div/div/div[2]/div[2]/button/span</value>
+      <webElementGuid>730afcca-18af-470b-8a08-79f28a64965c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='link'])[1]/following::span[1]</value>
+      <webElementGuid>885800e5-4536-4d83-889a-8b83545b9004</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/button/span</value>
+      <webElementGuid>f91720cc-291e-42a4-a38b-7df027c5c489</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
