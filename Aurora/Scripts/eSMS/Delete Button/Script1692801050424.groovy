@@ -17,27 +17,17 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
+WebUI.click(findTestObject('HomePage/Home page/Admin Mode Toggle'))
 
-WebUI.navigateToUrl('https://gla-az-aurora-web-site-test-sr344.azurewebsites.net/login')
+WebUI.click(findTestObject('HomePage/Sean Testing Tile/Tiles/Documents Tile'))
 
-WebUI.setText(findTestObject('Object Repository/Xpath/Page_Aurora/input_Aurora Web_mud-input-slot mud-input-r_127a58'), 
-    'numan.kureshi')
+WebUI.waitForElementPresent(findTestObject('HomePage/Sean Testing Tile/Documents/Open document asdzx'), 0)
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Xpath/Page_Aurora/input_Aurora Web_mud-input-slot mud-input-r_127a58_1'), 
-    'p4y+y39Ir5Pc2g9xt3QkeQ==')
+WebUI.click(findTestObject('HomePage/Sean Testing Tile/Documents/Open document asdzx'))
 
-WebUI.click(findTestObject('Object Repository/Xpath/Page_Aurora/span_Sign in'))
+WebUI.waitForElementPresent(findTestObject('HomePage/eSMS/Common Functions/Select File Upload button'), 0)
 
-WebUI.click(findTestObject('Object Repository/Xpath/Page_Aurora/input_Wildcard_mud-checkbox-input'))
-
-WebUI.click(findTestObject('HomePage/Tile/Sean Testing Tile'))
-
-WebUI.click(findTestObject('Object Repository/Xpath/Page_Aurora/div_Documents'))
-
-WebUI.click(findTestObject('Object Repository/Xpath/Page_Aurora/td_asdzx'))
-
-WebUI.waitForElementPresent(findTestObject('Xpath/Page_Aurora/span_Upload File'), 0)
+WebUI.uploadFile(findTestObject('HomePage/eSMS/Common Functions/Select File Upload button'), '')
 
 WebUI.closeBrowser()
 

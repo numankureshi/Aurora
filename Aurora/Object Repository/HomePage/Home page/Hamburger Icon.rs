@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Close Task</name>
+   <name>Hamburger Icon</name>
    <tag></tag>
-   <elementGuidId>ae50c0c2-1d0b-49be-8d7b-78e877ffafac</elementGuidId>
+   <elementGuidId>2f31f80f-bfe2-4063-84d1-9cb5c37b7f4d</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(//button[@type='button'])[13]</value>
+         <value>//button[@class=&quot;mud-button-root mud-icon-button mud-icon-button-color-inherit mud-ripple mud-ripple-icon mud-icon-button-edge-start&quot;]</value>
       </entry>
       <entry>
          <key>BASIC</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

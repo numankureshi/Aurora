@@ -29,15 +29,15 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Xpath/Page_Aurora/input
 
 WebUI.click(findTestObject('Object Repository/Xpath/Page_Aurora/button_Sign in'))
 
-WebUI.click(findTestObject('HomePage/Notification Icon'))
+WebUI.click(findTestObject('HomePage/Home page/Notification Icon'))
 
-WebUI.click(findTestObject('HomePage/Close Notification'))
+WebUI.click(findTestObject('HomePage/Home page/Close Notification'))
 
-WebUI.click(findTestObject('HomePage/Task Icon'))
+WebUI.click(findTestObject('HomePage/Home page/Task Icon'))
 
-WebUI.click(findTestObject('HomePage/Close Task'))
+WebUI.click(findTestObject('HomePage/Home page/Close Task'))
 
-WebUI.click(findTestObject('HomePage/Broadcast Icon'))
+WebUI.click(findTestObject('HomePage/Home page/Broadcast Icon'))
 
 WebUI.click(findTestObject('Object Repository/Xpath/Page_Aurora/span_Numan'))
 

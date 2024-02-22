@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Sean Testing Tile</name>
+   <name>Close Notification</name>
    <tag></tag>
-   <elementGuidId>154bc34d-8193-46c1-8a0f-bb609a93c8b1</elementGuidId>
+   <elementGuidId>d4a91028-1a48-46d4-ac36-f417db9f07a1</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@class=&quot;mud-paper mud-elevation-0 flex-column tile-view shadow&quot;]//child::div//child::p[contains(text(),&quot;Sean&quot;)]</value>
+         <value>//div[@id='popover-d6fd6a9b-63f4-496d-b26b-75ab1ff3064d']//preceding-sibling::button</value>
       </entry>
       <entry>
          <key>BASIC</key>

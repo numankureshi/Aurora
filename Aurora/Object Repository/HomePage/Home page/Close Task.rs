@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Search Icon</name>
+   <name>Close Task</name>
    <tag></tag>
-   <elementGuidId>d594814d-6449-4ca2-8b4b-91269a6cd6bf</elementGuidId>
+   <elementGuidId>ae50c0c2-1d0b-49be-8d7b-78e877ffafac</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(//button[@class='mud-button-root mud-icon-button mud-icon-button-color-inherit mud-ripple mud-ripple-icon'])[1]</value>
+         <value>//div[@id='popover-8492e1db-aff5-4eac-a9d5-4cd9d5ac576c']//preceding-sibling::button</value>
       </entry>
       <entry>
          <key>BASIC</key>

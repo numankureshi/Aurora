@@ -6,12 +6,12 @@
    <elementGuidId>ea87a01c-a3e9-4822-a7ba-a15b6f1e3d4c</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div.f-flex.flex-column.pa-4.parent-height > div</value>
+         <key>XPATH</key>
+         <value>//p[contains(text(),'Multi Page')]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='wrapper']/div[3]/div/div[3]/div[2]/div/div/div[2]/div</value>
+         <key>CSS</key>
+         <value>div.f-flex.flex-column.pa-4.parent-height > div</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>b73f4742-a950-464b-847c-f1ecd6789dcd</webElementGuid>
+      <webElementGuid>6b363aa0-2f51-4bc4-a1ba-6d21fe95e263</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <type>Main</type>
       <value>Multi Page
                 </value>
-      <webElementGuid>7723908f-1fa3-4d9b-b133-5e99fec0e216</webElementGuid>
+      <webElementGuid>d0c72391-c73d-45b6-8851-748eea264bec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;wrapper&quot;)/div[@class=&quot;mud-layout mud-drawer-open-responsive-md-left mud-drawer-left-clipped-always&quot;]/div[@class=&quot;mud-main-content&quot;]/div[@class=&quot;mud-container mud-container-maxwidth-false mt-4 mb-16 px-8&quot;]/div[@class=&quot;mud-grid mud-grid-spacing-xs-2 mud-grid-justify-xs-center&quot;]/div[@class=&quot;mud-grid-item&quot;]/div[@class=&quot;mud-paper mud-elevation-1 flex-column tile-view&quot;]/div[@class=&quot;f-flex flex-column pa-4 parent-height&quot;]/div[1]</value>
-      <webElementGuid>42f3369f-baef-4a5c-a650-98bfc051e886</webElementGuid>
+      <webElementGuid>a57bbb98-7e3b-42f8-8bfa-342974f054cd</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='wrapper']/div[3]/div/div[3]/div[2]/div/div/div[2]/div</value>
-      <webElementGuid>52ce52aa-dd48-473c-8d2c-e2fd6f1fd135</webElementGuid>
+      <webElementGuid>571380ea-fd9b-4603-b845-b0fe43147ce1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Wildcard:'])[1]/following::div[9]</value>
-      <webElementGuid>a51f5ffb-ed55-420d-b0bd-cf0032c99781</webElementGuid>
+      <webElementGuid>4d43fac4-c34d-42a0-9684-2cb5671be436</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Will return search result matching atleast one term from the query in any sequence'])[1]/following::div[9]</value>
-      <webElementGuid>4b9e0213-1c02-4943-b87a-b1f54cde0011</webElementGuid>
+      <webElementGuid>8d5b305e-7f45-4b5d-a6e6-9d25ad1d6569</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Notifications'])[2]/preceding::div[18]</value>
-      <webElementGuid>f6c5df71-d89a-4bde-a491-33c8d7ecd3b4</webElementGuid>
+      <webElementGuid>34beaa94-72e5-499c-8e86-cc7a901f08d3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div[2]/div</value>
-      <webElementGuid>ee9aa46a-5ea1-4fc6-bbeb-0ce98fd09b07</webElementGuid>
+      <webElementGuid>f98d27d3-a669-4cff-b2bc-2c1e9c496ce8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -89,7 +89,7 @@
       <value>//div[(text() = 'Multi Page
                 ' or . = 'Multi Page
                 ')]</value>
-      <webElementGuid>3c0a5bd8-7109-4f56-942f-7db2fd2b5422</webElementGuid>
+      <webElementGuid>db50558e-37fd-4e19-a581-d66dd8c40292</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -97,7 +97,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='wrapper']/div[3]/div/div[3]/div[2]/div/div/div/div/div</value>
-      <webElementGuid>7c3d4ad0-a682-4f08-8611-b258943f3523</webElementGuid>
+      <webElementGuid>31ab08ee-84f3-43fd-9bf7-d94ccb9ebdc0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -105,7 +105,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Notifications'])[2]/preceding::div[32]</value>
-      <webElementGuid>c530ad04-a938-473d-b87d-5e5029cd605c</webElementGuid>
+      <webElementGuid>b15a18ed-1ca3-4370-b38d-7bcae90a5a6a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -113,6 +113,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div[2]/div/div/div/div/div</value>
-      <webElementGuid>72764cca-597b-4573-a111-04448c3c7a50</webElementGuid>
+      <webElementGuid>8a50ba87-ec18-4803-b583-f7b5942f96cf</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -34,7 +34,7 @@ WebUI.click(findTestObject('Object Repository/Xpath/Page_Aurora/span_Sign in'))
 
 WebUI.click(findTestObject('HomePage/Tile/Sean Testing Tile'))
 
-WebUI.click(findTestObject('HomePage/Sean Testing Tile/Single Page Tile'))
+WebUI.click(findTestObject('HomePage/Sean Testing Tile/Tiles/Single Page Tile'))
 
 WebUI.click(findTestObject('Object Repository/Xpath/Page_Aurora/td_Bribery Instructions'))
 

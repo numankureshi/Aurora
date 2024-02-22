@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Close Notification</name>
+   <name>Search Icon</name>
    <tag></tag>
-   <elementGuidId>d4a91028-1a48-46d4-ac36-f417db9f07a1</elementGuidId>
+   <elementGuidId>d594814d-6449-4ca2-8b4b-91269a6cd6bf</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(//button[@type='button'])[10]</value>
+         <value>//div[@id='popover-9321cdf6-f13d-4f7b-90d8-559b75b7873b']//preceding-sibling::button</value>
       </entry>
       <entry>
          <key>BASIC</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

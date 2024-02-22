@@ -18,13 +18,13 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
 'Wait for Account Settings to be displayed'
-WebUI.waitForElementPresent(findTestObject('HomePage/Acc Settings Dropdown'), 0)
+WebUI.waitForElementPresent(findTestObject('HomePage/Home page/Acc Settings Dropdown'), 0)
 
 'Validate if the account settings dropdown is clickable'
-WebUI.verifyElementClickable(findTestObject('HomePage/Acc Settings Dropdown'))
+WebUI.verifyElementClickable(findTestObject('HomePage/Home page/Acc Settings Dropdown'))
 
 'Click on Account Settings Dropdown'
-WebUI.click(findTestObject('HomePage/Acc Settings Dropdown'))
+WebUI.click(findTestObject('HomePage/Home page/Acc Settings Dropdown'))
 
 'Click to enable Dark Mode\r\n'
 WebUI.click(findTestObject('HomePage/Account Settings Dropdown/Dark Mode'))

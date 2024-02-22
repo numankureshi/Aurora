@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Sean Testing Tile</name>
+   <name>aatest form code list</name>
    <tag></tag>
-   <elementGuidId>154bc34d-8193-46c1-8a0f-bb609a93c8b1</elementGuidId>
+   <elementGuidId>11253755-cc79-4221-a112-0821604c0d83</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@class=&quot;mud-paper mud-elevation-0 flex-column tile-view shadow&quot;]//child::div//child::p[contains(text(),&quot;Sean&quot;)]</value>
+         <key>BASIC</key>
+         <value></value>
       </entry>
       <entry>
-         <key>BASIC</key>
+         <key>XPATH</key>
+         <value>//td[@data-label='Form Code']//ancestor::*[contains(text(),'aatest')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

@@ -29,7 +29,7 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Xpath/Page_Aurora/input
 
 WebUI.click(findTestObject('Object Repository/Xpath/Page_Aurora/span_Sign in'))
 
-WebUI.click(findTestObject('HomePage/Search Icon'))
+WebUI.click(findTestObject('HomePage/Home page/Search Icon'))
 
 WebUI.setText(findTestObject('Object Repository/Xpath/Page_Aurora/input_Aurora Web_mud-input-slot mud-input-r_127a58'), 
     'this document is edited')

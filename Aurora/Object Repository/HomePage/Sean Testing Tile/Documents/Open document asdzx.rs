@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Sean Testing Tile</name>
+   <name>Open document asdzx</name>
    <tag></tag>
-   <elementGuidId>154bc34d-8193-46c1-8a0f-bb609a93c8b1</elementGuidId>
+   <elementGuidId>c2342807-f5e9-427c-8dff-1bc14e34b23a</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@class=&quot;mud-paper mud-elevation-0 flex-column tile-view shadow&quot;]//child::div//child::p[contains(text(),&quot;Sean&quot;)]</value>
+         <value>//td[contains(text(),'asdzx')]</value>
       </entry>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

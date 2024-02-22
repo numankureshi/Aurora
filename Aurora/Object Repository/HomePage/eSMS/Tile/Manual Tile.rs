@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Single Page Tile</name>
+   <name>Manual Tile</name>
    <tag></tag>
-   <elementGuidId>8aec2bac-0511-47b9-9f00-9a77a79f67d7</elementGuidId>
+   <elementGuidId>e67deab5-4b92-4107-a95a-53e9467cef99</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//p[contains(text(),'Single Page')]</value>
+         <value>//p[contains(text(),'Manual')]</value>
       </entry>
       <entry>
          <key>BASIC</key>

@@ -33,7 +33,7 @@ WebUI.click(findTestObject('Object Repository/Xpath/Page_Aurora/input_Wildcard_m
 
 WebUI.click(findTestObject('HomePage/Tile/Sean Testing Tile'))
 
-WebUI.click(findTestObject('HomePage/Sean Testing Tile/Single Page Tile'))
+WebUI.click(findTestObject('HomePage/Sean Testing Tile/Tiles/Single Page Tile'))
 
 WebUI.click(findTestObject('Object Repository/Xpath/Page_Aurora/td_Test doc'))
 

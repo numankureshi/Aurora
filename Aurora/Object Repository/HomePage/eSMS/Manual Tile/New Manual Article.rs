@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Acc Settings Dropdown</name>
+   <name>New Manual Article</name>
    <tag></tag>
-   <elementGuidId>fe566dfd-296a-473d-94e6-63b332bc0ab2</elementGuidId>
+   <elementGuidId>705f56e3-0d24-4b18-82f1-6a3e11c5e443</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
+         <key>XPATH</key>
+         <value>//td[contains(text(),'Manual')]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//*[name()='svg']//*[name()='path' and @d='M7.41 8.59L12 13.17l4.59-4.58L18 10l-6 6-6-6 1.41-1.41z']//ancestor::button[@type='button']</value>
+         <key>BASIC</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

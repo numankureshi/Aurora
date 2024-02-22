@@ -23,6 +23,3 @@ WebUI.click(findTestObject('HomePage/Tile/eSMS Tile'))
 'Validate that the user is on eSMS page'
 WebUI.waitForElementPresent(findTestObject('HomePage/eSMS/Tile/Management System Documents Tile'), 0)
 
-'Close Browser'
-WebUI.closeBrowser()
-
