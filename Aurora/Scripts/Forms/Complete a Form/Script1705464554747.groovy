@@ -17,7 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.click(findTestObject('HomePage/Aurora Forms/Complete a Form Tile'))
+WebUI.click(findTestObject('HomePage/Aurora Forms/Forms Tile/Complete a Form Tile'))
 
 WebUI.waitForElementPresent(findTestObject('HomePage/Aurora Forms/Complete a Form Folder/Office Forms Tile'), 0)
 

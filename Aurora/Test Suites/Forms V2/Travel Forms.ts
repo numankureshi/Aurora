@@ -15,7 +15,7 @@
       <guid>de1065df-7355-41c4-9cbc-bb58499fbe3c</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Login Office</testCaseId>
+      <testCaseId>Test Cases/Login page/Login Office</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
@@ -68,7 +68,7 @@
       <guid>8daf7268-3cd5-4b25-a831-5c3d72c41075</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Close Browser</testCaseId>
+      <testCaseId>Test Cases/Home Page/Close Browser</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

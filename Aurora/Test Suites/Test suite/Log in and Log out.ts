@@ -22,7 +22,7 @@
          <masked>false</masked>
          <name>Username</name>
       </iterationNameVariable>
-      <testCaseId>Test Cases/Login Office</testCaseId>
+      <testCaseId>Test Cases/Login page/Login Office</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
          <id>031429c5-dc1a-43d6-987a-078aaebeb61d</id>
@@ -56,7 +56,7 @@
       <guid>d2b8eaae-56da-4a35-8e92-5ad7a462eb07</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Log Out</testCaseId>
+      <testCaseId>Test Cases/Login page/Log Out</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

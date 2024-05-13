@@ -17,7 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.click(findTestObject('HomePage/Aurora Forms/Form Types'))
+WebUI.click(findTestObject('HomePage/Aurora Forms/Forms Tile/Form Types'))
 
 WebUI.click(findTestObject('HomePage/Aurora Forms/Common Functions/New Form Type'))
 

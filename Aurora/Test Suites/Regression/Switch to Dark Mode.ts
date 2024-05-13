@@ -15,7 +15,7 @@
       <guid>4b7eb642-df76-44c8-9280-c3bc8f94481b</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Login Office</testCaseId>
+      <testCaseId>Test Cases/Login page/Login Office</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
          <id>c3a0d962-631b-472c-9710-b81d1428be9f</id>
@@ -49,7 +49,7 @@
       <guid>73d15d80-2c04-4cf4-af89-128e24dee8cc</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Dark Mode</testCaseId>
+      <testCaseId>Test Cases/Home Page/Dark Mode</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

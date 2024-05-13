@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//p[contains(text(),'Management System Documents')]</value>
+         <value>//p[contains(text(),'Emergency Response Management')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

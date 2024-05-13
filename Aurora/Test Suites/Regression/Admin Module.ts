@@ -22,7 +22,7 @@
          <masked>false</masked>
          <name>Username</name>
       </iterationNameVariable>
-      <testCaseId>Test Cases/Login Office</testCaseId>
+      <testCaseId>Test Cases/Login page/Login Office</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
          <id>92ee2ce1-675e-49a9-9b2d-179d017bd2fc</id>
@@ -56,14 +56,14 @@
       <guid>82abf7d1-865a-4679-ba66-80c5c4a23204</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Admin Module</testCaseId>
+      <testCaseId>Test Cases/Home Page/Admin Module</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>bd89a6ae-0205-4bb9-81c5-6abbada998e0</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Close Browser</testCaseId>
+      <testCaseId>Test Cases/Home Page/Close Browser</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

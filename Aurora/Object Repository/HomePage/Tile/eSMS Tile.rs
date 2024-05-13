@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@class=&quot;mud-paper mud-elevation-1 flex-column tile-view&quot;]//child::div//child::p[contains(text(),&quot;eSMS&quot;)]</value>
+         <value>//p[contains(text(),'eSMS')]</value>
       </entry>
       <entry>
          <key>BASIC</key>
